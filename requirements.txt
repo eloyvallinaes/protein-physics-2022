@@ -1,0 +1,5 @@
+matplotlib==3.5.2
+numpy==1.22.3
+pandas==1.2.4
+scipy==1.6.3
+ipython==8.6.0
