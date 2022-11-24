@@ -6,8 +6,11 @@ November 2022 @ Stockholms Universitet
 ## Contents
 | |Item| Status |
 |-|-   |-       |
-|1|Equilibrium denaturation experiment as a **log-linear** model| &#9989;|
-|2|Linear model parameter error estimates through simulations| &#9989; |
-|3|Mathematical derivation of a logistic model for the equilibrium denaturation experiment|&#9989;|
-|4|Equilibrium denaturation as a **non-linear** model| &#9989;|
-|5|Non-linear model parameter error estimates through simulations| &#10060;|
+| |**Log-linear** model| |
+|1|Data transformations and model fit| &#9989; |
+|2|Parameter error estimates through simulations| &#9989; |
+| |**Logistic model**| |
+|3|Obtaining a model equation for the equilibrium denaturation experiment| &#9989; |
+|4|Fitting the model| &#9989;|
+|5|Parameter error estimates through simulations| &#9989; |
+|6|Propagation of uncertainty to protein stability | &#9989; |
